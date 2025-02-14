@@ -1,3 +1,3 @@
 readme here
 
-The main branch is for STABLE and working versions of the app. Don't push anything to here unless it has been tested & bugless(ish)
+The dev branch is for DEVELOPMENT. This is what we will be (mostly) coding in, developing features and working on the app
